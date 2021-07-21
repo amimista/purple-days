@@ -1,0 +1,13 @@
+{
+  "name": "twitch-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node --trace-warnings src/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "tmi.js": "^1.8.3"
+  }
+}
